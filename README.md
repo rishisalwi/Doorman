@@ -22,13 +22,13 @@ How hard it is to pursue such ambitious projects in 24 hours. We learned that no
 Currently accessing all the APIs take a lot of time. We would like to streamline the process to make the products faster and more efficient. Also, to incorporate numerous students, we would use databases.
 ## Built With
 
-*flask
-*python
-*arduino
-*ibm-watson
-*rfid
-*pygame
-*json
-*google-web-speech-api
-*kairos
+* flask
+* python
+* arduino
+* ibm-watson
+* rfid
+* pygame
+* json
+* google-web-speech-api
+* kairos
 
