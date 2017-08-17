@@ -1,4 +1,4 @@
-## Doorman
+# Doorman
 An emotional analysis kiosk to make school guidance counseling more effective 
 
 # Inspiration:
