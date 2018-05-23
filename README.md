@@ -4,9 +4,7 @@ An emotional analysis kiosk to make school guidance counseling more effective
 <p align="center">
   <img src ="https://imgur.com/s8rcjAT" />
 </p>
-<p align="center">
-  <img src ="https://imgur.com/Bfz8p0g" />
-</p>
+
 
 ## Inspiration:
 We see a lot of people in school who are often very sad or mentally troubled. They go through their school career hopelessly looking for someone to reach out to. Guidance counselors are currently overworked and cannot possibly cater to every student's needs. In fact, counselors outnumber students 491 to 1. We were inspired to help guidance counselors monitor the mental health of students
