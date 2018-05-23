@@ -2,7 +2,10 @@
 ### 2nd Place StuyHacks
 An emotional analysis kiosk to make school guidance counseling more effective 
 <p align="center">
-  <img src ="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/513/006/datas/gallery.jpg" />
+  <img src ="https://imgur.com/s8rcjAT" />
+</p>
+<p align="center">
+  <img src ="https://imgur.com/Bfz8p0g" />
 </p>
 
 ## Inspiration:
